@@ -1,0 +1,26 @@
+<!doctype html>
+
+<html>
+
+<head>
+<title> Ethiopian Institute of Architecture, Building Construction and City Development</title>
+<meta name="description" content="This is a webpage for teaching Architecture students the basics 
+setting up a website in HTML."/>
+<meta name="keywords" content="architcture, html, design, computer aided design"/>
+<meta http-equiv="author"content="Ayele Bedada"/>
+<meta http-equiv="content-language"content="en-us"/>
+</head>
+
+
+<br>
+<br>
+<br>
+<body>
+
+Some Advertisements:<br>
+<iframe frameborder="1" width="800" height="200"
+   src="Ayele Bedada Duguma _ Achievement.html" name="ouriframe" id="ouriframe"</iframe><br/>
+<a href="ORCID.html" target="ouriframe">switch to new document</a> <br><br><br><br><br>
+</body>
+
+</html>
