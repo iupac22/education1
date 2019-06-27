@@ -1,5 +1,8 @@
 /*<style type="text/css">*/
 h1{color:brown;}
+h4{
+    text-align: justify;
+}
 body{
     background-color:#f4f4f4;color:#555555;
  font: normal 16px Arial, Helvetica, sans-serif; 
