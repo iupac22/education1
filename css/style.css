@@ -1,9 +1,11 @@
 /*<style type="text/css">*/
 h1{color:brown;}
-body{background-color:#f4f4f4;color:#555555;
+body{
+    background-color:#f4f4f4;color:#555555;
  font: normal 16px Arial, Helvetica, sans-serif; 
- 
  line-height: 1.6em; 
+ padding: 150px;
+ padding-top: 50;
 }
 
 a{ text-decoration: none; color: black; }
@@ -174,17 +176,6 @@ text-align: justify;}
 .pseudo-list li:nth-child(odd){
     background: yellow;   
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 /*-- This comment is to indicate this as the second selector option in css style*/
